@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rishith shetty
-- 👀 I’m interested in learning anything and everything aboot tech
+- 👀 I’m interested in learning anything and everything about tech
 - 🌱 I’m currently learning Python
 <!---
 Rishi-Shetty/Rishi-Shetty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
